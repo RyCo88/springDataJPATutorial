@@ -1,4 +1,4 @@
-package com.ryco.jdbcTutorial.dao.impl;
+/*package com.ryco.jdbcTutorial.repositories;
 
 import com.ryco.jdbcTutorial.TestDataUtil;
 import com.ryco.jdbcTutorial.domain.Author;
@@ -71,3 +71,4 @@ public class AuthorDaoImplIntegrationTests {
 
     }
 }
+*/

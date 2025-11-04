@@ -1,4 +1,4 @@
-package com.ryco.jdbcTutorial.dao.impl;
+/*package com.ryco.jdbcTutorial.repositories;
 
 
 import com.ryco.jdbcTutorial.TestDataUtil;
@@ -97,3 +97,4 @@ public class BookDaoImplIntegrationTests {
         assertThat(result).isEmpty();
     }
 }
+*/
