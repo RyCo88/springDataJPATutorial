@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ryco</groupId>
-	<artifactId>jdbcTutorial</artifactId>
+	<artifactId>springDataJPATutorial</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jdbcTutorial</name>
 	<description>Demo project for Spring Boot</description>

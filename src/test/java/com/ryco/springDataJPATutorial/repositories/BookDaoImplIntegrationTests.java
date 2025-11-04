@@ -1,10 +1,10 @@
-/*package com.ryco.jdbcTutorial.repositories;
+/*package com.ryco.springDataJPATutorial.repositories;
 
 
-import com.ryco.jdbcTutorial.TestDataUtil;
-import com.ryco.jdbcTutorial.dao.AuthorDao;
-import com.ryco.jdbcTutorial.domain.Author;
-import com.ryco.jdbcTutorial.domain.Book;
+import com.ryco.springDataJPATutorial.TestDataUtil;
+import com.ryco.springDataJPATutorial.dao.AuthorDao;
+import com.ryco.springDataJPATutorial.domain.Author;
+import com.ryco.springDataJPATutorial.domain.Book;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

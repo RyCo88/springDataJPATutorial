@@ -1,7 +1,7 @@
-package com.ryco.jdbcTutorial;
+package com.ryco.springDataJPATutorial;
 
-import com.ryco.jdbcTutorial.domain.Author;
-import com.ryco.jdbcTutorial.domain.Book;
+import com.ryco.springDataJPATutorial.domain.Author;
+import com.ryco.springDataJPATutorial.domain.Book;
 
 public final class TestDataUtil {
     private TestDataUtil() {

@@ -1,4 +1,4 @@
-package com.ryco.jdbcTutorial.domain;
+package com.ryco.springDataJPATutorial.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

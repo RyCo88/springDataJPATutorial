@@ -1,13 +1,13 @@
-package com.ryco.jdbcTutorial;
+package com.ryco.springDataJPATutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JdbcTutorialApplication {
+public class springDataJPAApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JdbcTutorialApplication.class, args);
+		SpringApplication.run(springDataJPAApplication.class, args);
 	}
 
 }
